@@ -9,9 +9,13 @@
   },
   "dependencies": {
 <<<<<<< HEAD
+<<<<<<< HEAD
     "axios": "^0.18.0",
 =======
 >>>>>>> e2206a0d7547803d61cd6d36c85533feb42262eb
+=======
+    "axios": "^0.18.0",
+>>>>>>> 94d0b0f19288ccc4723fec543c89ce9bc2a019a1
     "register-service-worker": "^1.0.0",
     "vue": "^2.5.17",
     "vue-router": "^3.0.1",
@@ -36,6 +40,7 @@
     },
     "extends": [
 <<<<<<< HEAD
+<<<<<<< HEAD
       "plugin:vue/strongly-recommended",
       "@vue/standard"
     ],
@@ -45,6 +50,11 @@
     ],
     "rules": {},
 >>>>>>> e2206a0d7547803d61cd6d36c85533feb42262eb
+=======
+      "plugin:vue/strongly-recommended",
+      "@vue/standard"
+    ],
+>>>>>>> 94d0b0f19288ccc4723fec543c89ce9bc2a019a1
     "parserOptions": {
       "parser": "babel-eslint"
     }
@@ -60,7 +70,11 @@
     "not ie <= 8"
   ]
 <<<<<<< HEAD
+<<<<<<< HEAD
 }
 =======
 }
 >>>>>>> e2206a0d7547803d61cd6d36c85533feb42262eb
+=======
+}
+>>>>>>> 94d0b0f19288ccc4723fec543c89ce9bc2a019a1

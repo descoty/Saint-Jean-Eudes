@@ -829,12 +829,21 @@ margin-right:5px;
 {
 	margin:20px 0px 20px 0px;
 }
+<<<<<<< HEAD
 /*@preserve
  * Tempus Dominus Bootstrap4 v5.0.0-alpha10 (https://tempusdominus.github.io/bootstrap-4/)
  * Copyright 2016-2017 Jonathan Peterson
  * Licensed under MIT (https://github.com/tempusdominus/bootstrap-3/blob/master/LICENSE)
  */
 
+=======
+/*@preserve
+ * Tempus Dominus Bootstrap4 v5.0.0-alpha10 (https://tempusdominus.github.io/bootstrap-4/)
+ * Copyright 2016-2017 Jonathan Peterson
+ * Licensed under MIT (https://github.com/tempusdominus/bootstrap-3/blob/master/LICENSE)
+ */
+
+>>>>>>> 94d0b0f19288ccc4723fec543c89ce9bc2a019a1
 .sr-only, .bootstrap-datetimepicker-widget .btn[data-action="incrementHours"]::after, .bootstrap-datetimepicker-widget .btn[data-action="incrementMinutes"]::after, .bootstrap-datetimepicker-widget .btn[data-action="decrementHours"]::after, .bootstrap-datetimepicker-widget .btn[data-action="decrementMinutes"]::after, .bootstrap-datetimepicker-widget .btn[data-action="showHours"]::after, .bootstrap-datetimepicker-widget .btn[data-action="showMinutes"]::after, .bootstrap-datetimepicker-widget .btn[data-action="togglePeriod"]::after, .bootstrap-datetimepicker-widget .btn[data-action="clear"]::after, .bootstrap-datetimepicker-widget .btn[data-action="today"]::after, .bootstrap-datetimepicker-widget .picker-switch::after, .bootstrap-datetimepicker-widget table th.prev::after, .bootstrap-datetimepicker-widget table th.next::after {
   position: absolute;
   width: 1px;
@@ -1032,7 +1041,11 @@ margin-right:5px;
     line-height: 27px; }
 
 .input-group.date .input-group-addon {
+<<<<<<< HEAD
   cursor: pointer; }
+=======
+  cursor: pointer; }
+>>>>>>> 94d0b0f19288ccc4723fec543c89ce9bc2a019a1
 
 /**
 * asColorPicker v0.4.4
