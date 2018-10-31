@@ -14,10 +14,46 @@ export default new Router({
       component: Login
     },
     {
-      path: '/dashboard',
+      path: '/tableau-de-bord',
       name: 'home',
       component: () =>
         import('./views/Home/Home.vue')
+    },
+    {
+      path: '/retraitants',
+      name: 'retraitants',
+      component: () =>
+        import('./views/Retraitants/Retraitants.vue')
+    },
+    {
+      path: '/reservations',
+      name: 'reservations',
+      component: () =>
+        import('./views/Reservations/Reservations.vue')
+    },
+    {
+      path: '/reglements',
+      name: 'reglements',
+      component: () =>
+        import('./views/Reglements/Reglements.vue')
+    },
+    {
+      path: '/espaces',
+      name: 'espaces',
+      component: () =>
+        import('./views/Espaces/Espaces.vue')
+    },
+    {
+      path: '/employes',
+      name: 'employes',
+      component: () =>
+        import('./views/Employes/Employes.vue')
+    },
+    {
+      path: '/parametres',
+      name: 'parametres',
+      component: () =>
+        import('./views/Parametres/Parametres.vue')
     },
     {
       path: '/*',

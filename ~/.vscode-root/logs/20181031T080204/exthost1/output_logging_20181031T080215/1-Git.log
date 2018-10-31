@@ -312,3 +312,143 @@ fatal: aucune branche amont configurée pour la branche 'master'
 fatal: aucune branche amont configurée pour la branche 'master'
 > git for-each-ref --format %(refname) %(objectname) --sort -committerdate
 > git remote --verbose
+> git show :src/components/TopBar/TopBar.vue
+> git show :src/router.js
+> git show :src/components/TopBar/TopBar.vue
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :src/router.js
+> git show :src/views/Retraitants/Retraitants.vue
+> git ls-files --stage -- src/views/Retraitants/
+> git show :src/views/Retraitants/Content.vue
+> git ls-files --stage -- src/views/Retraitants/
+> git show :src/router.js
+> git show :src/components/TopBar/TopBar.vue
+> git check-ignore -z --stdin
+> git show :src/views/Login/Login.vue
+> git show :src/router.js
+> git show :src/views/Login/Login.vue
+> git show :src/components/TopBar/TopBar.vue
+> git show :src/views/Retraitants/Content.vue
+> git ls-files --stage -- src/views/Retraitants/
+> git show :src/components/TopBar/TopBar.vue
+> git show :src/components/TopBar/TopBar.vue
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :node_modules/webpack/hot/dev-server.js
+> git ls-files --stage -- node_modules/webpack/hot/
+> git show :node_modules/webpack/hot/poll.js
+> git ls-files --stage -- node_modules/webpack/hot/
+> git show :src/components/TopBar/TopBar.vue
+> git show :vue.config.js
+> git check-ignore -z --stdin
+> git show :src/components/TopBar/TopBar.vue
+> git show :vue.config.js
+> git show :src/components/TopBar/TopBar.vue
+> git check-ignore -z --stdin
+> git show :vue.config.js
+> git show :src/components/TopBar/TopBar.vue
+> git show :src/components/TopBar/TopBar.vue
+> git show :src/views/Login/Login.vue
+> git show :src/router.js
+> git show :src/views/Retraitants/Content.vue
+> git ls-files --stage -- src/views/Retraitants/
+> git show :src/views/Retraitants/Retraitants.vue
+> git ls-files --stage -- src/views/Retraitants/
+> git show :src/views/Retraitants/Content.vue
+> git ls-files --stage -- src/views/Retraitants/
+> git show :src/views/Retraitants/Retraitants.vue
+> git ls-files --stage -- src/views/Retraitants/
+> git show :src/components/TopBar/TopBar.vue
+> git show :src/router.js
+> git show :src/components/TopBar/TopBar.vue
+> git show :src/views/Retraitants/Content.vue
+> git ls-files --stage -- src/views/Retraitants/
+> git show :src/router.js
+> git show :src/views/Retraitants/Content.vue
+> git ls-files --stage -- src/views/Retraitants/
+> git show :src/views/Retraitants/Retraitants.vue
+> git ls-files --stage -- src/views/Retraitants/
+> git show :src/components/TopBar/TopBar.vue
+> git show :src/views/Retraitants/Content.vue
+> git ls-files --stage -- src/views/Retraitants/
+> git show :src/router.js
+> git show :src/components/TopBar/TopBar.vue
+> git show :src/router.js
+> git show :src/views/Retraitants/Content.vue
+> git ls-files --stage -- src/views/Retraitants/
+> git show :src/components/TopBar/TopBar.vue
+> git show :src/router.js
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :src/views/Reservations/Content.vue
+> git ls-files --stage -- src/views/Reservations/
+> git show :src/views/Reservations/Reservations.vue
+> git ls-files --stage -- src/views/Reservations/
+> git show :src/views/Reservations/Content.vue
+> git ls-files --stage -- src/views/Reservations/
+> git show :src/router.js
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :src/views/Reglements/Content.vue
+> git ls-files --stage -- src/views/Reglements/
+> git show :src/views/Reglements/Reservations.vue
+> git ls-files --stage -- src/views/Reglements/
+> git show :src/views/Reglements/Reglements.vue
+> git ls-files --stage -- src/views/Reglements/
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :src/views/Espaces/Content.vue
+> git ls-files --stage -- src/views/Espaces/
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :src/views/Employes/Content.vue
+> git ls-files --stage -- src/views/Employes/
+> git show :src/views/Espaces/Content.vue
+> git ls-files --stage -- src/views/Espaces/
+> git show :src/views/Reglements/Reglements.vue
+> git ls-files --stage -- src/views/Reglements/
+> git show :src/views/Reglements/Content.vue
+> git ls-files --stage -- src/views/Reglements/
+> git show :src/router.js
+> git show :src/views/Retraitants/Content.vue
+> git ls-files --stage -- src/views/Retraitants/
+> git show :src/router.js
+> git check-ignore -z --stdin
+> git show :src/components/TopBar/TopBar.vue
+> git show :src/router.js
+> git show :src/components/TopBar/TopBar.vue
+> git show :src/views/Reservations/Content.vue
+> git ls-files --stage -- src/views/Reservations/
+> git show :src/router.js
+> git show :src/components/TopBar/TopBar.vue
+> git show :src/router.js
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :src/views/Parametres/Employes.vue
+> git ls-files --stage -- src/views/Parametres/
+> git show :src/views/Parametres/Parametres.vue
+> git ls-files --stage -- src/views/Parametres/
+> git check-ignore -z --stdin
+> git show :src/views/Parametres/Content.vue
+> git ls-files --stage -- src/views/Parametres/
+> git show :src/components/TopBar/TopBar.vue
+> git show :src/views/Parametres/Content.vue
+> git ls-files --stage -- src/views/Parametres/
+> git show :src/components/TopBar/TopBar.vue

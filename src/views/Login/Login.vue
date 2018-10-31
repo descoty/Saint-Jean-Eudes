@@ -110,7 +110,7 @@ export default {
         }).then(response => {
           console.log(response)
           this.loader = false
-            this.$router.push("/dashboard")
+            this.$router.push("/tableau-de-bord")
         }).catch(error => {
           console.log(error)
         })
