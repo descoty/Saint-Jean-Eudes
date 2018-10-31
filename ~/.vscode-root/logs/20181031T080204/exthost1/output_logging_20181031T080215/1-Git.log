@@ -144,3 +144,171 @@ fatal: aucune branche amont configurée pour la branche 'master'
 fatal: aucune branche amont configurée pour la branche 'master'
 > git for-each-ref --format %(refname) %(objectname) --sort -committerdate
 > git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: aucune branche amont configurée pour la branche 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: aucune branche amont configurée pour la branche 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: aucune branche amont configurée pour la branche 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse templating
+> git rev-parse --symbolic-full-name templating@{u}
+fatal: aucune branche amont configurée pour la branche 'templating'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse templating
+> git rev-parse --symbolic-full-name templating@{u}
+fatal: aucune branche amont configurée pour la branche 'templating'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse templating
+> git rev-parse --symbolic-full-name templating@{u}
+fatal: aucune branche amont configurée pour la branche 'templating'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: aucune branche amont configurée pour la branche 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: aucune branche amont configurée pour la branche 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: aucune branche amont configurée pour la branche 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :src/components/TopBar/TopBar.vue
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: aucune branche amont configurée pour la branche 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/components/TopBar/TopBar.vue
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: aucune branche amont configurée pour la branche 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: aucune branche amont configurée pour la branche 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/components/TopBar/TopBar.vue
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: aucune branche amont configurée pour la branche 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :package.json
+> git rev-parse --show-toplevel
+fatal: Not a git repository (or any of the parent directories): .git
+> git show :package.json
+> git rev-parse --show-toplevel
+fatal: Not a git repository (or any of the parent directories): .git
+> git show :package.json
+> git rev-parse --show-toplevel
+fatal: Not a git repository (or any of the parent directories): .git
+> git show :package.json
+> git rev-parse --show-toplevel
+fatal: Not a git repository (or any of the parent directories): .git
+> git show :package.json
+> git rev-parse --show-toplevel
+fatal: Not a git repository (or any of the parent directories): .git
+> git show :package.json
+> git rev-parse --show-toplevel
+fatal: Not a git repository (or any of the parent directories): .git
+> git show :package.json
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: aucune branche amont configurée pour la branche 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :package.json
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: aucune branche amont configurée pour la branche 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/main.js
+> git show :package.json
+> git show :src/main.js
+> git show :package.json
+> git show :src/components/TopBar/TopBar.vue
+> git show :package.json
+> git show :src/components/TopBar/TopBar.vue
+> git show :package.json
+> git show :src/components/TopBar/TopBar.vue
+> git show :package.json
+> git rev-parse --show-toplevel
+fatal: Not a git repository (or any of the parent directories): .git
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: aucune branche amont configurée pour la branche 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: aucune branche amont configurée pour la branche 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/components/TopBar/style.css
+> git check-ignore -z --stdin
+> git show :src/views/404/style.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: aucune branche amont configurée pour la branche 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose

@@ -26,3 +26,19 @@
 [2018-10-31 08:02:15.546] [exthost] [info] ExtensionService#_doActivateExtension robertohuertasm.vscode-icons {"startup":true,"activationEvent":"*"}
 [2018-10-31 08:02:15.546] [exthost] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/robertohuertasm.vscode-icons-7.28.0/out/src/
 [2018-10-31 08:02:15.611] [exthost] [info] eager extensions activated
+[2018-10-31 09:09:58.901] [exthost] [info] ExtensionService#_doActivateExtension octref.vetur {"startup":false,"activationEvent":"onLanguage:vue"}
+[2018-10-31 09:09:58.901] [exthost] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/octref.vetur-0.13.0/dist/client/vueMain
+[2018-10-31 09:21:59.040] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:json"}
+[2018-10-31 09:21:59.040] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2018-10-31 09:21:59.077] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:json"}
+[2018-10-31 09:21:59.077] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2018-10-31 09:21:59.179] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:json"}
+[2018-10-31 09:21:59.179] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2018-10-31 09:21:59.290] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"activationEvent":"onLanguage:json"}
+[2018-10-31 09:21:59.290] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/npm/dist/main
+[2018-10-31 09:21:59.791] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-10-31 09:21:59.791] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2018-10-31 09:31:19.120] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"activationEvent":"onLanguage:css"}
+[2018-10-31 09:31:19.120] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/css-language-features/client/dist/cssMain
+[2018-10-31 09:31:31.453] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"activationEvent":"onLanguage:html"}
+[2018-10-31 09:31:31.453] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain

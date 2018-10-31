@@ -459,6 +459,8 @@
         "workspaces2": [
             "file:///home/fylegroupdev/Documents/SAINT%20JEAN%20EUDES/Saint-Jean-Eudes-App"
         ],
-        "files2": []
+        "files2": [
+            "file:///home/fylegroupdev/Documents/SAINT%20JEAN%20EUDES/Saint-Jean-Eudes-App%20%282%29/package.json"
+        ]
     }
 }

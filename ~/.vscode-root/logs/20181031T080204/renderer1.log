@@ -1,2 +1,4 @@
 [2018-10-31 08:02:06.651] [renderer1] [info] no standard startup: not the explorer viewlet
 [2018-10-31 08:02:14.683] [renderer1] [info] no standard startup: not just one text editor
+[2018-10-31 09:29:22.564] [renderer1] [error] Failed to watch /home/fylegroupdev/Documents/SAINT JEAN EUDES/Saint-Jean-Eudes-App (2)/package.json for changes (Error: watch /home/fylegroupdev/Documents/SAINT JEAN EUDES/Saint-Jean-Eudes-App (2)/package.json ENOSPC)
+[2018-10-31 09:32:02.654] [renderer1] [error] Inotify limit reached (ENOSPC)

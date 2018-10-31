@@ -1,0 +1,277 @@
+Vetur initialized
+/root/.vscode/extensions/octref.vetur-0.13.0/server/node_modules/eslint/lib/ignored-paths.js:227
+                    throw e;
+                    ^
+
+SyntaxError: Unexpected token < in JSON at position 228
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/root/.vscode/extensions/octref.vetur-0.13.0/server/node_modules/eslint/lib/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/root/.vscode/extensions/octref.vetur-0.13.0/server/node_modules/eslint/lib/cli-engine.js:581:28)
+    at Object.doValidation (/root/.vscode/extensions/octref.vetur-0.13.0/server/dist/modes/template/services/htmlValidation.js:25:27)
+    at Object.doValidation (/root/.vscode/extensions/octref.vetur-0.13.0/server/dist/modes/template/index.js:34:37)
+    at languageModes.getAllModesInDocument.forEach.mode (/root/.vscode/extensions/octref.vetur-0.13.0/server/dist/services/vls.js:109:47)
+    at Array.forEach (<anonymous>)
+    at VLS.doValidate (/root/.vscode/extensions/octref.vetur-0.13.0/server/dist/services/vls.js:107:59)
+    at VLS.validateTextDocument (/root/.vscode/extensions/octref.vetur-0.13.0/server/dist/services/vls.js:242:34)
+    at Timeout.pendingValidationRequests.(anonymous function).setTimeout [as _onTimeout] (/root/.vscode/extensions/octref.vetur-0.13.0/server/dist/services/vls.js:231:18)
+[Info  - 09:10:06] Connection to server got closed. Server will restart.
+[Error - 09:10:06] Request textDocument/documentLink failed.
+Error: Connection got disposed.
+	at Object.dispose (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/main.js:876:25)
+	at Object.dispose (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-languageclient/lib/client.js:71:35)
+	at LanguageClient.handleConnectionClosed (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-languageclient/lib/client.js:2143:42)
+	at LanguageClient.handleConnectionClosed (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-languageclient/lib/main.js:150:15)
+	at closeHandler (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-languageclient/lib/client.js:2130:18)
+	at CallbackList.invoke (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/events.js:62:39)
+	at Emitter.fire (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/events.js:120:36)
+	at closeHandler (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/main.js:226:26)
+	at CallbackList.invoke (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/events.js:62:39)
+	at Emitter.fire (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/events.js:120:36)
+	at IPCMessageReader.fireClose (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/messageReader.js:111:27)
+	at ChildProcess.IPCMessageReader.eventEmitter.on (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/messageReader.js:213:45)
+	at emitTwo (events.js:131:20)
+	at ChildProcess.emit (events.js:214:7)
+	at maybeClose (internal/child_process.js:925:16)
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:209:5)
+[Error - 09:10:06] Request textDocument/colorPresentation failed.
+Error: Connection got disposed.
+	at Object.dispose (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/main.js:876:25)
+	at Object.dispose (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-languageclient/lib/client.js:71:35)
+	at LanguageClient.handleConnectionClosed (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-languageclient/lib/client.js:2143:42)
+	at LanguageClient.handleConnectionClosed (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-languageclient/lib/main.js:150:15)
+	at closeHandler (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-languageclient/lib/client.js:2130:18)
+	at CallbackList.invoke (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/events.js:62:39)
+	at Emitter.fire (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/events.js:120:36)
+	at closeHandler (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/main.js:226:26)
+	at CallbackList.invoke (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/events.js:62:39)
+	at Emitter.fire (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/events.js:120:36)
+	at IPCMessageReader.fireClose (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/messageReader.js:111:27)
+	at ChildProcess.IPCMessageReader.eventEmitter.on (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/messageReader.js:213:45)
+	at emitTwo (events.js:131:20)
+	at ChildProcess.emit (events.js:214:7)
+	at maybeClose (internal/child_process.js:925:16)
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:209:5)
+Vetur initialized
+/root/.vscode/extensions/octref.vetur-0.13.0/server/node_modules/eslint/lib/ignored-paths.js:227
+                    throw e;
+                    ^
+
+SyntaxError: Unexpected token < in JSON at position 228
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/root/.vscode/extensions/octref.vetur-0.13.0/server/node_modules/eslint/lib/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/root/.vscode/extensions/octref.vetur-0.13.0/server/node_modules/eslint/lib/cli-engine.js:581:28)
+    at Object.doValidation (/root/.vscode/extensions/octref.vetur-0.13.0/server/dist/modes/template/services/htmlValidation.js:25:27)
+    at Object.doValidation (/root/.vscode/extensions/octref.vetur-0.13.0/server/dist/modes/template/index.js:34:37)
+    at languageModes.getAllModesInDocument.forEach.mode (/root/.vscode/extensions/octref.vetur-0.13.0/server/dist/services/vls.js:109:47)
+    at Array.forEach (<anonymous>)
+    at VLS.doValidate (/root/.vscode/extensions/octref.vetur-0.13.0/server/dist/services/vls.js:107:59)
+    at VLS.validateTextDocument (/root/.vscode/extensions/octref.vetur-0.13.0/server/dist/services/vls.js:242:34)
+    at Timeout.pendingValidationRequests.(anonymous function).setTimeout [as _onTimeout] (/root/.vscode/extensions/octref.vetur-0.13.0/server/dist/services/vls.js:231:18)
+[Info  - 09:10:08] Connection to server got closed. Server will restart.
+[Error - 09:10:08] Request textDocument/documentLink failed.
+Error: Connection got disposed.
+	at Object.dispose (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/main.js:876:25)
+	at Object.dispose (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-languageclient/lib/client.js:71:35)
+	at LanguageClient.handleConnectionClosed (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-languageclient/lib/client.js:2143:42)
+	at LanguageClient.handleConnectionClosed (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-languageclient/lib/main.js:150:15)
+	at closeHandler (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-languageclient/lib/client.js:2130:18)
+	at CallbackList.invoke (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/events.js:62:39)
+	at Emitter.fire (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/events.js:120:36)
+	at closeHandler (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/main.js:226:26)
+	at CallbackList.invoke (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/events.js:62:39)
+	at Emitter.fire (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/events.js:120:36)
+	at IPCMessageReader.fireClose (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/messageReader.js:111:27)
+	at ChildProcess.IPCMessageReader.eventEmitter.on (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/messageReader.js:213:45)
+	at emitTwo (events.js:131:20)
+	at ChildProcess.emit (events.js:214:7)
+	at maybeClose (internal/child_process.js:925:16)
+	at Socket.stream.socket.on (internal/child_process.js:346:11)
+	at emitOne (events.js:116:13)
+	at Socket.emit (events.js:211:7)
+	at Pipe._handle.close [as _onclose] (net.js:554:12)
+[Error - 09:10:08] Request textDocument/colorPresentation failed.
+Error: Connection got disposed.
+	at Object.dispose (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/main.js:876:25)
+	at Object.dispose (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-languageclient/lib/client.js:71:35)
+	at LanguageClient.handleConnectionClosed (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-languageclient/lib/client.js:2143:42)
+	at LanguageClient.handleConnectionClosed (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-languageclient/lib/main.js:150:15)
+	at closeHandler (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-languageclient/lib/client.js:2130:18)
+	at CallbackList.invoke (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/events.js:62:39)
+	at Emitter.fire (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/events.js:120:36)
+	at closeHandler (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/main.js:226:26)
+	at CallbackList.invoke (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/events.js:62:39)
+	at Emitter.fire (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/events.js:120:36)
+	at IPCMessageReader.fireClose (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/messageReader.js:111:27)
+	at ChildProcess.IPCMessageReader.eventEmitter.on (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/messageReader.js:213:45)
+	at emitTwo (events.js:131:20)
+	at ChildProcess.emit (events.js:214:7)
+	at maybeClose (internal/child_process.js:925:16)
+	at Socket.stream.socket.on (internal/child_process.js:346:11)
+	at emitOne (events.js:116:13)
+	at Socket.emit (events.js:211:7)
+	at Pipe._handle.close [as _onclose] (net.js:554:12)
+Vetur initialized
+/root/.vscode/extensions/octref.vetur-0.13.0/server/node_modules/eslint/lib/ignored-paths.js:227
+                    throw e;
+                    ^
+
+SyntaxError: Unexpected token < in JSON at position 228
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/root/.vscode/extensions/octref.vetur-0.13.0/server/node_modules/eslint/lib/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/root/.vscode/extensions/octref.vetur-0.13.0/server/node_modules/eslint/lib/cli-engine.js:581:28)
+    at Object.doValidation (/root/.vscode/extensions/octref.vetur-0.13.0/server/dist/modes/template/services/htmlValidation.js:25:27)
+    at Object.doValidation (/root/.vscode/extensions/octref.vetur-0.13.0/server/dist/modes/template/index.js:34:37)
+    at languageModes.getAllModesInDocument.forEach.mode (/root/.vscode/extensions/octref.vetur-0.13.0/server/dist/services/vls.js:109:47)
+    at Array.forEach (<anonymous>)
+    at VLS.doValidate (/root/.vscode/extensions/octref.vetur-0.13.0/server/dist/services/vls.js:107:59)
+    at VLS.validateTextDocument (/root/.vscode/extensions/octref.vetur-0.13.0/server/dist/services/vls.js:242:34)
+    at Timeout.pendingValidationRequests.(anonymous function).setTimeout [as _onTimeout] (/root/.vscode/extensions/octref.vetur-0.13.0/server/dist/services/vls.js:231:18)
+[Info  - 09:10:10] Connection to server got closed. Server will restart.
+[Error - 09:10:10] Request textDocument/documentLink failed.
+Error: Connection got disposed.
+	at Object.dispose (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/main.js:876:25)
+	at Object.dispose (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-languageclient/lib/client.js:71:35)
+	at LanguageClient.handleConnectionClosed (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-languageclient/lib/client.js:2143:42)
+	at LanguageClient.handleConnectionClosed (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-languageclient/lib/main.js:150:15)
+	at closeHandler (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-languageclient/lib/client.js:2130:18)
+	at CallbackList.invoke (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/events.js:62:39)
+	at Emitter.fire (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/events.js:120:36)
+	at closeHandler (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/main.js:226:26)
+	at CallbackList.invoke (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/events.js:62:39)
+	at Emitter.fire (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/events.js:120:36)
+	at IPCMessageReader.fireClose (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/messageReader.js:111:27)
+	at ChildProcess.IPCMessageReader.eventEmitter.on (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/messageReader.js:213:45)
+	at emitTwo (events.js:131:20)
+	at ChildProcess.emit (events.js:214:7)
+	at maybeClose (internal/child_process.js:925:16)
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:209:5)
+[Error - 09:10:10] Request textDocument/colorPresentation failed.
+Error: Connection got disposed.
+	at Object.dispose (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/main.js:876:25)
+	at Object.dispose (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-languageclient/lib/client.js:71:35)
+	at LanguageClient.handleConnectionClosed (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-languageclient/lib/client.js:2143:42)
+	at LanguageClient.handleConnectionClosed (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-languageclient/lib/main.js:150:15)
+	at closeHandler (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-languageclient/lib/client.js:2130:18)
+	at CallbackList.invoke (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/events.js:62:39)
+	at Emitter.fire (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/events.js:120:36)
+	at closeHandler (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/main.js:226:26)
+	at CallbackList.invoke (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/events.js:62:39)
+	at Emitter.fire (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/events.js:120:36)
+	at IPCMessageReader.fireClose (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/messageReader.js:111:27)
+	at ChildProcess.IPCMessageReader.eventEmitter.on (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/messageReader.js:213:45)
+	at emitTwo (events.js:131:20)
+	at ChildProcess.emit (events.js:214:7)
+	at maybeClose (internal/child_process.js:925:16)
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:209:5)
+Vetur initialized
+/root/.vscode/extensions/octref.vetur-0.13.0/server/node_modules/eslint/lib/ignored-paths.js:227
+                    throw e;
+                    ^
+
+SyntaxError: Unexpected token < in JSON at position 228
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/root/.vscode/extensions/octref.vetur-0.13.0/server/node_modules/eslint/lib/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/root/.vscode/extensions/octref.vetur-0.13.0/server/node_modules/eslint/lib/cli-engine.js:581:28)
+    at Object.doValidation (/root/.vscode/extensions/octref.vetur-0.13.0/server/dist/modes/template/services/htmlValidation.js:25:27)
+    at Object.doValidation (/root/.vscode/extensions/octref.vetur-0.13.0/server/dist/modes/template/index.js:34:37)
+    at languageModes.getAllModesInDocument.forEach.mode (/root/.vscode/extensions/octref.vetur-0.13.0/server/dist/services/vls.js:109:47)
+    at Array.forEach (<anonymous>)
+    at VLS.doValidate (/root/.vscode/extensions/octref.vetur-0.13.0/server/dist/services/vls.js:107:59)
+    at VLS.validateTextDocument (/root/.vscode/extensions/octref.vetur-0.13.0/server/dist/services/vls.js:242:34)
+    at Timeout.pendingValidationRequests.(anonymous function).setTimeout [as _onTimeout] (/root/.vscode/extensions/octref.vetur-0.13.0/server/dist/services/vls.js:231:18)
+[Info  - 09:10:11] Connection to server got closed. Server will restart.
+[Error - 09:10:11] Request textDocument/documentLink failed.
+Error: Connection got disposed.
+	at Object.dispose (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/main.js:876:25)
+	at Object.dispose (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-languageclient/lib/client.js:71:35)
+	at LanguageClient.handleConnectionClosed (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-languageclient/lib/client.js:2143:42)
+	at LanguageClient.handleConnectionClosed (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-languageclient/lib/main.js:150:15)
+	at closeHandler (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-languageclient/lib/client.js:2130:18)
+	at CallbackList.invoke (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/events.js:62:39)
+	at Emitter.fire (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/events.js:120:36)
+	at closeHandler (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/main.js:226:26)
+	at CallbackList.invoke (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/events.js:62:39)
+	at Emitter.fire (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/events.js:120:36)
+	at IPCMessageReader.fireClose (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/messageReader.js:111:27)
+	at ChildProcess.IPCMessageReader.eventEmitter.on (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/messageReader.js:213:45)
+	at emitTwo (events.js:131:20)
+	at ChildProcess.emit (events.js:214:7)
+	at maybeClose (internal/child_process.js:925:16)
+	at Socket.stream.socket.on (internal/child_process.js:346:11)
+	at emitOne (events.js:116:13)
+	at Socket.emit (events.js:211:7)
+	at Pipe._handle.close [as _onclose] (net.js:554:12)
+[Error - 09:10:11] Request textDocument/colorPresentation failed.
+Error: Connection got disposed.
+	at Object.dispose (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/main.js:876:25)
+	at Object.dispose (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-languageclient/lib/client.js:71:35)
+	at LanguageClient.handleConnectionClosed (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-languageclient/lib/client.js:2143:42)
+	at LanguageClient.handleConnectionClosed (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-languageclient/lib/main.js:150:15)
+	at closeHandler (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-languageclient/lib/client.js:2130:18)
+	at CallbackList.invoke (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/events.js:62:39)
+	at Emitter.fire (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/events.js:120:36)
+	at closeHandler (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/main.js:226:26)
+	at CallbackList.invoke (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/events.js:62:39)
+	at Emitter.fire (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/events.js:120:36)
+	at IPCMessageReader.fireClose (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/messageReader.js:111:27)
+	at ChildProcess.IPCMessageReader.eventEmitter.on (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/messageReader.js:213:45)
+	at emitTwo (events.js:131:20)
+	at ChildProcess.emit (events.js:214:7)
+	at maybeClose (internal/child_process.js:925:16)
+	at Socket.stream.socket.on (internal/child_process.js:346:11)
+	at emitOne (events.js:116:13)
+	at Socket.emit (events.js:211:7)
+	at Pipe._handle.close [as _onclose] (net.js:554:12)
+Vetur initialized
+/root/.vscode/extensions/octref.vetur-0.13.0/server/node_modules/eslint/lib/ignored-paths.js:227
+                    throw e;
+                    ^
+
+SyntaxError: Unexpected token < in JSON at position 228
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/root/.vscode/extensions/octref.vetur-0.13.0/server/node_modules/eslint/lib/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/root/.vscode/extensions/octref.vetur-0.13.0/server/node_modules/eslint/lib/cli-engine.js:581:28)
+    at Object.doValidation (/root/.vscode/extensions/octref.vetur-0.13.0/server/dist/modes/template/services/htmlValidation.js:25:27)
+    at Object.doValidation (/root/.vscode/extensions/octref.vetur-0.13.0/server/dist/modes/template/index.js:34:37)
+    at languageModes.getAllModesInDocument.forEach.mode (/root/.vscode/extensions/octref.vetur-0.13.0/server/dist/services/vls.js:109:47)
+    at Array.forEach (<anonymous>)
+    at VLS.doValidate (/root/.vscode/extensions/octref.vetur-0.13.0/server/dist/services/vls.js:107:59)
+    at VLS.validateTextDocument (/root/.vscode/extensions/octref.vetur-0.13.0/server/dist/services/vls.js:242:34)
+    at Timeout.pendingValidationRequests.(anonymous function).setTimeout [as _onTimeout] (/root/.vscode/extensions/octref.vetur-0.13.0/server/dist/services/vls.js:231:18)
+[Error - 09:10:14] Connection to server got closed. Server will not be restarted.
+[Error - 09:10:14] Request textDocument/documentLink failed.
+Error: Connection got disposed.
+	at Object.dispose (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/main.js:876:25)
+	at Object.dispose (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-languageclient/lib/client.js:71:35)
+	at LanguageClient.handleConnectionClosed (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-languageclient/lib/client.js:2143:42)
+	at LanguageClient.handleConnectionClosed (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-languageclient/lib/main.js:150:15)
+	at closeHandler (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-languageclient/lib/client.js:2130:18)
+	at CallbackList.invoke (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/events.js:62:39)
+	at Emitter.fire (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/events.js:120:36)
+	at closeHandler (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/main.js:226:26)
+	at CallbackList.invoke (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/events.js:62:39)
+	at Emitter.fire (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/events.js:120:36)
+	at IPCMessageReader.fireClose (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/messageReader.js:111:27)
+	at ChildProcess.IPCMessageReader.eventEmitter.on (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/messageReader.js:213:45)
+	at emitTwo (events.js:131:20)
+	at ChildProcess.emit (events.js:214:7)
+	at maybeClose (internal/child_process.js:925:16)
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:209:5)
+[Error - 09:10:14] Request textDocument/colorPresentation failed.
+Error: Connection got disposed.
+	at Object.dispose (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/main.js:876:25)
+	at Object.dispose (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-languageclient/lib/client.js:71:35)
+	at LanguageClient.handleConnectionClosed (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-languageclient/lib/client.js:2143:42)
+	at LanguageClient.handleConnectionClosed (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-languageclient/lib/main.js:150:15)
+	at closeHandler (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-languageclient/lib/client.js:2130:18)
+	at CallbackList.invoke (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/events.js:62:39)
+	at Emitter.fire (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/events.js:120:36)
+	at closeHandler (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/main.js:226:26)
+	at CallbackList.invoke (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/events.js:62:39)
+	at Emitter.fire (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/events.js:120:36)
+	at IPCMessageReader.fireClose (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/messageReader.js:111:27)
+	at ChildProcess.IPCMessageReader.eventEmitter.on (/root/.vscode/extensions/octref.vetur-0.13.0/node_modules/vscode-jsonrpc/lib/messageReader.js:213:45)
+	at emitTwo (events.js:131:20)
+	at ChildProcess.emit (events.js:214:7)
+	at maybeClose (internal/child_process.js:925:16)
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:209:5)

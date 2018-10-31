@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 .title-logo{
     padding-left: 6px;
     font-size: 1.3rem;
@@ -16,23 +15,4 @@
     margin-bottom: 0;
     padding: 11px 13px;
     cursor: pointer;
-=======
-.title-logo{
-    padding-left: 6px;
-    font-size: 1.3rem;
-}
-.title-logo-mobile{
-    padding-left: 6px;
-    font-size: 1.2rem;
-}
-.horizontal-menu .top-navbar .navbar-brand-wrapper .navbar-brand.brand-logo-mini img {
-    width: 40px;
-    max-width: 100%;
-    margin: auto;
-}
-.horizontal-menu .top-navbar .navbar-menu-wrapper .navbar-nav .nav-item.dropdown .navbar-dropdown .dropdown-item {
-    margin-bottom: 0;
-    padding: 11px 13px;
-    cursor: pointer;
->>>>>>> 94d0b0f19288ccc4723fec543c89ce9bc2a019a1
 }
